@@ -2,6 +2,6 @@
 layout: redirected
 sitemap: false
 redirect_to:
-  - https://jalaniedimacaling.herokuapp.com
+  - https://jalaniedimacaling.com
 permalink: /index.html
 ---
